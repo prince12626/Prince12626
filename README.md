@@ -22,7 +22,6 @@ Started my coding journey from pure curiosity — now turning ideas into product
 
 **Languages**
 - JavaScript (ES6+)
-- TypeScript
 
 **Frontend**
 - React
