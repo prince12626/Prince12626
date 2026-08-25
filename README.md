@@ -61,7 +61,7 @@ Started my coding journey from pure curiosity — now turning ideas into product
 ## 📫 Connect With Me
 
 - GitHub: [@Prince12626](https://github.com/Prince12626)
-- Instagram: [@prince401unautorized](https://github.com/Prince12626)
+- Instagram: [@devprincechaurasiyaa](https://www.instagram.com/devprincechaurasiyaa/)
 - Email: [hello@princechaurasiya.in](mailto:hello@princechaurasiya.in)
 - Portfolio: [prince-chaurasiya.in](https://princechaurasiya.in/)
 
